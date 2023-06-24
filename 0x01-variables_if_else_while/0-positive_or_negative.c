@@ -1,18 +1,16 @@
 /*
- *File: 0-positive_or_negative.c
- *Auth: Brennan D Baraban
- *    
+ * File: 0-positive_or_negative.c
+ * Author: TErfa Ben
  */
 
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
- *main - Prints a random number and states whether
- *       it is positive, negative, or zero.
+ * main - prints a random number tha states if it's
+ * \t positive, negative, or zero.
  *
- *Return: Always 0.
+ * Return: Always 0.
  */
 int main(void)
 {
